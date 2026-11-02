@@ -1,0 +1,9 @@
+# compiled binaries
+Q*/*
+!Q*/*.c
+!Q*/*.h
+!Q*/*.sh
+!Q*/*.txt
+!Q*/*.md
+!Q*/outputs/
+.DS_Store
